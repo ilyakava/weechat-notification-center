@@ -2,7 +2,7 @@
 ## Originally from [github/sindresorhus](https://github.com/sindresorhus/weechat-notification-center)
 ### This fork adds notifications for all messages, not just private ones
 
-![screenshot](https://raw.github.com/sindresorhus/weechat-notification-center/master/screenshot.png)
+![screenshot](https://raw.github.com/ilyakava/weechat-notification-center/master/screenshot.png)
 
 [WeeChat](http://www.weechat.org) script to pass highlights and all messages to the OS X 10.8+ Notification Center
 
