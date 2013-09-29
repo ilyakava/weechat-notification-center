@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-- Install weechat, recommended:
+- Install [weechat](http://www.weechat.org) (you'll need [homebrew](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) and [python](http://docs.python-guide.org/en/latest/starting/install/osx/)):
     - `brew install weechat --with-python`
 - Install [pync](https://github.com/SeTeM/pync): `pip install pync`
 - Put `notification_center.py` in `~/.weechat/python/autoload/`
