@@ -9,10 +9,15 @@
 
 ## Getting Started
 
-- Install [weechat](http://www.weechat.org) (you'll need [homebrew](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) and [python](http://docs.python-guide.org/en/latest/starting/install/osx/)):
-    - `brew install weechat --with-python`
+- Install [weechat](http://www.weechat.org), recommended:
+    - `brew install weechat --with-python` (you'll need [homebrew](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) and [python](http://docs.python-guide.org/en/latest/starting/install/osx/))
 - Install [pync](https://github.com/SeTeM/pync): `pip install pync`
 - Put `notification_center.py` in `~/.weechat/python/autoload/`
+
+###TODO
+
+- Make clicking on notification make the Terminal the active window
+	- [`Notifier.notify('Hello World', activate='com.apple.Safari')`](https://github.com/alloy/terminal-notifier/blob/master/README.markdown) not doing it for whatever reason
 
 
 ## License
