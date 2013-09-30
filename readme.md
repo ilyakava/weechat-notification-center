@@ -18,7 +18,7 @@
 
 - Make clicking on notification make the Terminal the active window
 	- [`Notifier.notify('Hello World', activate='com.apple.Safari')`](https://github.com/alloy/terminal-notifier/blob/master/README.markdown) not doing it for whatever reason
-
+- Possible to add badges on icon from notifications?
 
 ## License
 
